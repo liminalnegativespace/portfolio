@@ -1,0 +1,66 @@
+baseURL: https://liminalnegativespace.github.io/portfolio # todo: change site url.
+title: nonenullnan # todo: change site name.
+defaultContentLanguage: 'en'
+theme: eternity
+googleAnalytics: '' # todo: set your analytics id.
+
+params:
+  image: 
+  logo: logo.png # todo: add your custom logo to static/
+  subtitle:  # todo: change default subtitle for your website.
+  copyright: All rights reserved. # todo: set your copyright type.
+  author: nonenullnan # todo: set your full name.
+  dontShowSource: false # please, do not do this :)
+  portfolio:
+    columns:
+      desktop:
+        archive: 6
+        default: 3
+      mobile:
+        default: 2
+        archive: 3
+  socials:
+    # todo: change these links.
+    - icon: 'fa fa-envelope fa-lg'
+      url: 'mailto:liminalnegativespace@proton.me'
+      landing: true
+    - icon: 'fa fa-instagram fa-lg'
+      url: 'https://instagram.com/nonenullnan'
+    - icon: 'fa fa-link fa-lg'
+      url: 'https://linktr.ee/nonenullnan'
+  homepage: "/archive" # homepage link, mostly same with menu.main[0]
+  specialPages:
+    - archive
+  bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
+  disableWelcomePageBackground: false # disables the background image on the homepage
+  plausible: '' # todo: set your plausible id.
+  disableRadius: false
+  moveIt: false  # Moves Title and Meta info down, only visible when scroll.
+  disableAlwaysResize: false
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  work: ":filename/"
+
+menu:
+  main:
+    - name: painting
+      url: /tags/painting/
+      weight: 2
+    - name: "digital art"
+      url: /tags/digitalart/
+      weight: 3
+    - name: archive
+      url: /archive/
+      weight: 1
+    - name: about
+      url: /about/
+      weight: 4
