@@ -9,7 +9,7 @@ tags:
 - archive # all posts
 - painting
 - acrylic
-- 小学生治国
+- 错误记忆
 ---
 
 ## Background
