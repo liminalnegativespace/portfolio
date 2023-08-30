@@ -21,9 +21,6 @@ params:
         archive: 3
   socials:
     # todo: change these links.
-    - icon: 'fa fa-envelope fa-lg'
-      url: 'mailto:liminalnegativespace@proton.me'
-      landing: true
     - icon: 'fa fa-instagram fa-lg'
       url: 'https://instagram.com/nonenullnan'
     - icon: 'fa fa-link fa-lg'
