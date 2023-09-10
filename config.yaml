@@ -14,7 +14,7 @@ params:
   portfolio:
     columns:
       desktop:
-        archive: 6
+        archive: 4
         default: 3
       mobile:
         default: 2
@@ -23,7 +23,9 @@ params:
     # todo: change these links.
     - icon: 'fa fa-instagram fa-lg'
       url: 'https://instagram.com/nonenullnan'
-    - icon: 'fa fa-link fa-lg'
+    - icon: 'fa fa-pen-to-square fa-lg'
+      url: 'https://liminalnegativespace.github.io/blog/'
+    - icon: 'fa fa-arrow-up-right-from-square fa-lg'
       url: 'https://linktr.ee/nonenullnan'
   homepage: "/archive" # homepage link, mostly same with menu.main[0]
   specialPages:
@@ -52,12 +54,15 @@ menu:
     - name: painting
       url: /tags/painting/
       weight: 2
+    - name: "drawing"
+      url: /tags/drawing/
+      weight: 3
     - name: "digital art"
       url: /tags/digitalart/
-      weight: 3
+      weight: 4
     - name: archive
       url: /archive/
       weight: 1
     - name: about
       url: /about/
-      weight: 4
+      weight: 99

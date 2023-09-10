@@ -11,7 +11,7 @@ hideDate: true
 		<h5><i>"First, do no harm."</i></h5>
 </div>
 
-### Artist Statement
+### (not) artist statement
 
 As a content creator, I believe that visual arts is a powerful alternative to verbal communication and it can be a tool that the silenced, the erased, and the non-native speakers of the dominant language in a particular society can employ when expressing themselves to a broader audience. 
 
