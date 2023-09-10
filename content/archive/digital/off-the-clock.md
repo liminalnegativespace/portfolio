@@ -1,7 +1,7 @@
 ---
 weight: 8
 images:
-- /images/off-the-clock/0.jpeg
+- /images/off-the-clock/IMG_1605.png
 
 title:
 multipleColumn: true
