@@ -3,7 +3,6 @@ title: drawing
 url: tags/drawing
 ---
 
-
 #### Inktober
 
 - [Inktober 2019](../inktober2019/)
