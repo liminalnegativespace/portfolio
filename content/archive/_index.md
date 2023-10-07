@@ -11,3 +11,4 @@ url: archive
 - [Inktober 2022](../tags/inktober2022/)
 - [Inktober 2023](../tags/inktober2023/)
 - [错误记忆](../tags/错误记忆/)
+- [精神垃圾填埋场](../tags/精神垃圾填埋场/)
