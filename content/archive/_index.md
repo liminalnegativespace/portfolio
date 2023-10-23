@@ -10,5 +10,5 @@ url: archive
 - [Inktober 2021](../tags/inktober2021/)
 - [Inktober 2020](../tags/inktober2020/)
 - [Inktober 2019](../tags/inktober2019/)
-- [错误记忆](../tags/错误记忆/)
-- [精神垃圾填埋场](../tags/精神垃圾填埋场/)
+- [错误记忆 Memory Error](../tags/错误记忆/)
+- [精神垃圾填埋场 Braindump](../tags/精神垃圾填埋场/)
