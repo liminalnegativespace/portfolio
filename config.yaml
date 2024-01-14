@@ -37,6 +37,7 @@ params:
   disableRadius: false
   moveIt: false  # Moves Title and Meta info down, only visible when scroll.
   disableAlwaysResize: true
+  disableFullheight: false
 
 markup:
   defaultMarkdownHandler: goldmark
