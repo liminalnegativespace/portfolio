@@ -7,7 +7,7 @@ images:
 
 
 title: composition over inheritance | 继承与重构
-multipleColumn: true
+multipleColumn: false
 hideExif: true
 date: 2021-07-05
 tags:
