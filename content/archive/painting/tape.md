@@ -1,5 +1,5 @@
 ---
-weight: 8
+weight: 6
 images:
 - https://www.instagram.com/p/C2fyNrVSbKL/media/?size=l
 
