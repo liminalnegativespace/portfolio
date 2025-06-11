@@ -5,6 +5,7 @@ url: archive
 
 #### **Quick Links**
 
+- [Inktober 2024](../tags/inktober2024/)
 - [Inktober 2023](../tags/inktober2023/)
 - [Inktober 2022](../tags/inktober2022/)
 - [Inktober 2021](../tags/inktober2021/)
