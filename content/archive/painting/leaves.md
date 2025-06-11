@@ -1,7 +1,7 @@
 ---
 weight: 8
 images:
-- https://www.instagram.com/p/C1qQMo-Rewm/media/?size=l
+- /images/leaves.jpg
 
 title: Leaves
 subtitle: oil on panel 10"x10"
