@@ -1,7 +1,7 @@
 ---
 weight: 8
 images:
-- https://www.instagram.com/p/CvJSs1nLNDg/media/?size=l
+- /images/night-boat.jpg
 
 title: 夜航船
 subtitle: oil on canvas 8"x8"
